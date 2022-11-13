@@ -1,0 +1,19 @@
+h1{text-align: center;
+  font-size: 100px;
+  color: yellow;
+  font-style: italic;}
+  h2{font-size: 75px;
+  text-align: center;
+  font-style: oblique;}
+body{background-color: lightpink}
+p{text-align: center;
+ font-style: normal;font-size: 30px;}
+hr{width: 10%;
+   border-color: green;}
+   img {height: 300px;}
+   body
+/************class*********/
+.pineapple{ margin-right: 5550px;}
+.advantage{background-color: yellow;}
+.pinki{text-align: right;
+font-size: 50px;}
